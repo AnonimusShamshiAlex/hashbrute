@@ -1,1 +1,3 @@
 # hashbrute
+
+pip install bcrypt
