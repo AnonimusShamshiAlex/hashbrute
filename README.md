@@ -608,4 +608,4 @@ Wordlist: rockyou.txt
 ✅ **Hash strings** → Works with 40+ hash formats  
 
 **Just enter the filename or hash. The program does the rest!** 🚀
-```
+
