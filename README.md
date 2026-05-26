@@ -16,13 +16,11 @@
 [*] Checked passwords: 1,032,000 (current: todd21)
 [*] Checked passwords: 1,032,144 (current: 0724796344catalina)
 
-============================================================
-                     [✓] PASSWORD FOUND!                     
-============================================================
+
     Password: 0724796344catalina
     Hash: 2810a37ca50b8f602c7e2120332b844f...
     Checked: 1,032,144 passwords
-============================================================
+
 ```
 
 ## Supported Hash Types
@@ -243,7 +241,7 @@ Wordlist path (Enter = passwords.TXT):
 
 Educational and research purposes only.
 Use only on systems you own or have permission to test.
-```
+
 
 Этот README фокусируется только на скорости, возможностях и инструкциях без упоминания других инструментов.
 
