@@ -207,7 +207,7 @@ $2b$12$KIXxeJzZk9g8E8QrZVpHb...
 
 ```bash
 # Terminal session
-$ python cracker.py
+$ python hasbbrute.py
 
 ============================================================
          UNIVERSAL HASH CRACKER v2.0
