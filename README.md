@@ -56,6 +56,16 @@ The program automatically detects and cracks:
 # Install required library
 pip install bcrypt
 
+# System packages (not in pip)
+sudo apt-get install unrar p7zip-full
+
+python3 -m venv venv
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate   # Windows
+
+#Run
+python hashbrute_beta9v.py #or python hashbrute_beta(n)v.py
+
 # Download or create wordlist file
 # Save as "passwords.TXT" (one password per line)
 ```
@@ -74,7 +84,7 @@ qwerty
 
 ### Step 2: Run Program
 ```bash
-python cracker.py
+python hashbrute_beta9v.py #or python hashbrute_beta(n)v.py
 ```
 
 ### Step 3: Choose Action
